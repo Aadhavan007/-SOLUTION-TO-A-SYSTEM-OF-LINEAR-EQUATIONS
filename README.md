@@ -30,7 +30,8 @@ R=np.linalg.solve(A,C)
 print(R)
 ```
 ## Output:
-<img width="1112" height="387" alt="image" src="https://github.com/user-attachments/assets/957e0522-efdb-42a5-880e-031d210dded9" />
+<img width="1210" height="582" alt="image" src="https://github.com/user-attachments/assets/a4b5c8fc-43ac-4517-bf7b-0f9343b0c4a4" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
