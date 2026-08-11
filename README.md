@@ -14,7 +14,7 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-'''
+```
 #Program to find the solution for the given linear equations.
 #Developed by: M.AADHAVAN NAGARAJAN
 #RegisterNumber: 212225040001
@@ -28,7 +28,7 @@ C=np.array([5,-3])
 
 R=np.linalg.solve(A,C)
 print(R)
-'''
+```
 ## Output:
 <img width="1112" height="387" alt="image" src="https://github.com/user-attachments/assets/957e0522-efdb-42a5-880e-031d210dded9" />
 
