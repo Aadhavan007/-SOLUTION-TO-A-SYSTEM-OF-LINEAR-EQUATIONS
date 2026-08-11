@@ -30,7 +30,8 @@ R=np.linalg.solve(A,C)
 print(R)
 ```
 ## Output:
-<img width="1210" height="582" alt="image" src="https://github.com/user-attachments/assets/a4b5c8fc-43ac-4517-bf7b-0f9343b0c4a4" />
+<img width="1498" height="902" alt="image" src="https://github.com/user-attachments/assets/f357d2ac-a485-42a9-95fe-a2fafbfd5eac" />
+
 
 
 ## Result: 
